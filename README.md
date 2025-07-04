@@ -121,7 +121,7 @@ GPT-2는 아래와 같이 두 가지 블록으로 구성됩니다.
 ![dialogGPT 한계](./images/dialoGPT_limit1.png)
 
 위 표의 _입력/출력 간 어텐션 패턴_ 의 해당하는 예시가 아래의 이미지 입니다.
-![dialogGPT 한계](./images/dialoGPT_limit1.png)
+![dialogGPT 한계](./images/dialoGPT_limit2.png)
 
 ---
 
